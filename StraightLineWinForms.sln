@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraightLineLibrary", "StraightLineLibrary\StraightLineLibrary.csproj", "{3A17AE84-E069-4CAC-A17E-2D8A7DFD7918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{67D9FF7B-D27C-4DCE-AE1F-E03FBACC8479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLibrary", "MatrixLibrary\MatrixLibrary.csproj", "{A1881601-9DF3-4A19-B3FD-4A7C8286190A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A17AE84-E069-4CAC-A17E-2D8A7DFD7918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A17AE84-E069-4CAC-A17E-2D8A7DFD7918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A17AE84-E069-4CAC-A17E-2D8A7DFD7918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A17AE84-E069-4CAC-A17E-2D8A7DFD7918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D9FF7B-D27C-4DCE-AE1F-E03FBACC8479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D9FF7B-D27C-4DCE-AE1F-E03FBACC8479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D9FF7B-D27C-4DCE-AE1F-E03FBACC8479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D9FF7B-D27C-4DCE-AE1F-E03FBACC8479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1881601-9DF3-4A19-B3FD-4A7C8286190A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1881601-9DF3-4A19-B3FD-4A7C8286190A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1881601-9DF3-4A19-B3FD-4A7C8286190A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1881601-9DF3-4A19-B3FD-4A7C8286190A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

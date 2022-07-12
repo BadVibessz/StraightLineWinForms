@@ -1,0 +1,17 @@
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.pdb
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\StraightLineLibrary.dll
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\StraightLineLibrary.pdb
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.LinePanelForm.resources
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\MatrixLibrary.dll
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\bin\Debug\MatrixLibrary.pdb
+C:\Users\danil\source\repos\StraightLineWinForms\WinForms\obj\Debug\WinForms.RelationForm.resources
